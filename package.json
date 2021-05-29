@@ -1,0 +1,23 @@
+{
+  "name": "node-face-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.6.1",
+    "blob": "^0.1.0",
+    "canvas": "^2.8.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "face-api.js": "^0.22.2",
+    "fetch": "^1.1.0",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "node-fetch": "^2.6.1",
+    "node-html-parser": "^3.3.4",
+    "pug": "^3.0.2"
+  }
+}
